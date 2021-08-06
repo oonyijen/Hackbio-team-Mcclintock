@@ -19,6 +19,7 @@ Intentionally named after the revered late American Nobel laureate and cytogenet
 1.) @Adeolu<br>
 Adeolu Ayobami<br>
 adeoluayobami13@gmail.com<br>
+Drug development<br>
 Nigeria<br>
 
 ![](https://ca.slack-edge.com/T025KDN24L8-U029R7FGSDB-72cf92e2b264-48)<br>
@@ -35,11 +36,13 @@ Nigeria<br>
 4.) @Bamidele<br>
 Alowoeshin Samuel Bamidele<br>
 alowoeshinsamuel@gmail.com<br>
+Genomics<br>
 Nigeria<br>
 
 5.) @BensonJoy <br>
 Olu-Benson<br>
 joyoolubenson@yahoo.com<br>
+Medicinal chemistry<br>
 Nigeria<br>
 
 6.) @Mouna<br>
@@ -50,10 +53,11 @@ mounabouras6@gmail.com<br>
 7.) @Callyeon<br>
 Calistus Okechukwu<br>
 calistus959@gmail.com<br>
+Science communication<br>
 Nigeria<br>
 
 8.) @Chidera<br>
-Obiora Precious Chidera<br><br
+Obiora Precious Chidera<br>
 obiorapc@gmail.com<br>
 Nigeria<br>
 
@@ -81,17 +85,20 @@ emmanuel.attah.pg00429@uun.edu.ng<br>
 13.) @Halton<br>
 Oluwatosin Adewale <br>
 oluwatosinadewale@gmail.com<br>
+Drug development<br>
 Nigeria<br>
 
 ![](https://ca.slack-edge.com/T025KDN24L8-U029YVCE6S0-c92baef5807d-48)<br>
 14.) @iamjamesuche<br>
 James Uche<br>
 uchej@student.babcock.edu.ng<br>
+Data analytics<br>
 Nigeria<br>
 
 15.) @Latifah<br>
 Latifah Abdulkareem<br>
 abdulkarimlatifah8@gmail.com<br>
+Data analytics<br>
 Nigeria<br>
 
 16.) @Martin<br>
@@ -106,12 +113,14 @@ omadeyemo@gmail.com<br>
 18.) @Nwaigwe<br>
 Nwaigwe Samuel Chisom<br>
 nwaigwesamuel6@gmail.com<br>
+Drug development<br>
 Nigeria<br>
 
 ![](https://ca.slack-edge.com/T025KDN24L8-U029D6BDVFH-a251406d79e9-48)<br>
 19.) @Ojei<br>
 Ojei Harry<br>
 ojei.onyijen@gmail.com<br>
+Drug development<br>
 Nigeria<br>
 
 20.) @Oluwakorede<br>
@@ -122,6 +131,7 @@ Nigeria<br>
 21.) @Rebecca<br>
 Rebecca Omosimua<br>
 meetbeca1@gmail.com<br>
+Vaccine informatics<br>
 Nigeria<br>
 
 ![](https://ca.slack-edge.com/T025KDN24L8-U029QURSQ2H-446edc248234-48)<br>
