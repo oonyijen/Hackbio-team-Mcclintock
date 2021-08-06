@@ -39,8 +39,8 @@ alowoeshinsamuel@gmail.com<br>
 Genomics<br>
 Nigeria<br>
 
-5.) @BensonJoy <br>
-Olu-Benson<br>
+5.) @Benson<br>
+Joy Olu-Benson<br>
 joyoolubenson@yahoo.com<br>
 Medicinal chemistry<br>
 Nigeria<br>
