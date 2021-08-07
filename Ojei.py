@@ -5,7 +5,7 @@ Slack_username = "@Ojei"
 Biostack = "Drug Development"
 Twitter_handle = "@harryjdon05"
 Hamming_Dist = "Slack_username, Twitter_handle"
-print("{}, {}, {}, {}, {}".format(Name, Email, Slack_username, Biostack, Twitter_handle))
+print("{}, {}, {}, {}, {}, {}".format(Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_Dist))
 
 
 def hammingDist(Slack_username, Twitter_handle):
