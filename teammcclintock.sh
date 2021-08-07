@@ -34,11 +34,11 @@ done
 
 for file in "$wd/C#_scripts/*"
 do
-if [[$file =~ *.cs ]]
+if [["${file:-3:}" == ".cs" ]]
 then
 mcs $file
 fi
-if [[$file =~ *.exe ]]
+if [["${file:-3:}" == ".exe" ]]
 then
 mono $file >> TEAMMCCLINTOCK.csv
 fi
