@@ -7,28 +7,28 @@ git clone https://github.com/Chinwendu20/Hackbio-team-Mcclintock.git
 cd Hackbio-team-Mcclintock
 
 echo "Name, Email, Slack_Username(with @), Biostack, Twitter_username, Hamming_Distance">TEAMMCCLINTOCK.csv
-wdwd
-for file in "$$R_scripts/"
+
+for file in "$wd/$R_scripts/"
 do
 RScript $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "Py_scripts/"
+for file in "$wd/Py_scripts/"
 do
 python3 $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "PhP_scripts/"
+for file in "$wd/PhP_scripts/"
 do
 php $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "perl_scripts/"
+for file in "$wd/perl_scripts/"
 do
 perl $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "JS_scripts/"
+for file in "$wd/JS_scripts/"
 do
 node $file >> TEAMMCCLINTOCK.csv
 done
