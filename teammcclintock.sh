@@ -1,4 +1,3 @@
-#!/bin/bash
 
 wd=$PWD
 
@@ -8,38 +7,38 @@ cd Hackbio-team-Mcclintock
 
 echo "Name, Email, Slack_Username(with @), Biostack, Twitter_username, Hamming_Distance">TEAMMCCLINTOCK.csv
 
-for file in "$wd/$R_scripts/"
+for file in "$wd/R_scripts/*"
 do
-RScript $file >> TEAMMCCLINTOCK.csv
+Rscript $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "$wd/Py_scripts/"
+for file in "$wd/Py_scripts/*"
 do
 python3 $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "$wd/PhP_scripts/"
+for file in "$wd/PhP_scripts/*"
 do
 php $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "$wd/perl_scripts/"
+for file in "$wd/perl_scripts/*"
 do
 perl $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "$wd/JS_scripts/"
+for file in "$wd/JS_scripts/*"
 do
 node $file >> TEAMMCCLINTOCK.csv
 done
 
-for file in "C#_scripts/"
+for file in "$wd/C#_scripts/*"
 do
-if ["$file"=="*.cs"]
+if [[$file =~ *.cs ]]
 then
 mcs $file
 fi
-if ["$file"=="*.exe"]
+if [[$file =~ *.exe ]]
 then
 mono $file >> TEAMMCCLINTOCK.csv
 fi

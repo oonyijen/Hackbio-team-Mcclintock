@@ -13,7 +13,6 @@
  $hamLength =[strlen("@BENSON")-strlen("@Benson"),];
  //Basically I have defined, arrayed all inputs and evaluted hamming lenth indirectly by manipulating string lengths
  //Next is to define the table
-<<<<<<< HEAD
  // echo"
  // <tr><b>
  //    <td>".$userNames[0]."</td>
